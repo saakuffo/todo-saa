@@ -1,2 +1,4 @@
 == README
 This is an app to play around with Ajax
+
+As part of theFirehose Project
